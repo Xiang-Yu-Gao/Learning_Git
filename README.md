@@ -7,4 +7,5 @@ I make a change on GitHub and test whether I can see the change in RStudio. Yes!
 I make a change on my iMac and push the change into GitHub repository.No!
 Use Token!！
 Further change on website and check it on iMac!
-make a change on my mac pro!
+Make a change on my mac pro! Yes!
+Make changes on github website and pull back to mac pro.
